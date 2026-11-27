@@ -1,5 +1,12 @@
 # [WSA GApps Script](https://github.com/WSA-Community/WSAGAScript)
 
+> [!CAUTION]
+> **Historical third-party fork; not a supported WSA installation guide.** Microsoft ended support for Windows Subsystem for Android on **March 5, 2025**. See the [Amazon developer discontinuation notice](https://www.developer.amazon.com/apps-and-games/blogs/2024/03/amazon-appstore-on-windows-11-discontinued), which cites Microsoft's WSA end of support.
+>
+> The original upstream instructions below predate that date. They include advice to override browser download warnings and modify installation packages. **Do not bypass browser or operating-system security warnings or install software from unverified sources.** This copy preserves those instructions for historical reference only; it does not assert a working, secure or officially supported installation in 2026.
+>
+> Original authorship, license and upstream project: [WSA-Community/WSAGAScript](https://github.com/WSA-Community/WSAGAScript). This personal fork is not an official Microsoft, Amazon or upstream support channel.
+
 
 <p align="center">
   <a href="#required-warnings">Required Warnings</a> •
